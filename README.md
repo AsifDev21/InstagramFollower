@@ -1,7 +1,7 @@
 # InstagramFollower
 Instagram auto followers via UI testing
 
-1. install com.ty.followers this application
+1. install **Real Followers for Instagram** application (http://www.apkmonk.com/app/com.ty.followers/)
 2. login to instagram
 3. Load InstagramFollower project in Android stduio.
 4. Let the gradle load.
